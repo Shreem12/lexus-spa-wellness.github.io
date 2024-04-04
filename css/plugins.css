@@ -46593,7 +46593,8 @@ header {
     }
 
     .navbar-brand img {
-        max-height: 47px
+        max-height: 47px;
+        max-width: 80%;
     }
 
     .navbar-nav li>ul {
